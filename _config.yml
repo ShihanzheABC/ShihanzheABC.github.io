@@ -23,7 +23,7 @@ repository               : "ShihanzheABC/ShihanzheABC.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "证件照.jpg"
   name             : "Shihanzhe"
   pronouns         : # example: "she/her"  
   bio              : "Master's student focusing on organic photodetectors, device fabrication, and instrumentation control."
