@@ -20,9 +20,9 @@ I am a Master's student at Nankai University's School of Chemistry, specializing
 
 Education
 ======
-* **M.S. in Chemistry** | Nankai University, Tianjin, China 
+* **M.S. in Chemistry**  Nankai University, Tianjin, China 
   * *Sept 2024 – Present (Expected Jun 2027)*
-* **B.E. in Polymer Materials and Engineering (Honors Degree)** | Dalian Polytechnic University, Dalian, China 
+* **B.E. in Polymer Materials and Engineering (Honors Degree)**  Dalian Polytechnic University, Dalian, China 
   * *Oct 2020 – Jun 2024*
   * *School of Textile and Material Engineering*
 
