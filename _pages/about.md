@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hanzhe Shi
-Master
-Key Laboratory of Functional Polymer Materials, Ministry of Education
-College of Chemistry
-Nankai University
+Hanzhe Shi  
+Master  
+Key Laboratory of Functional Polymer Materials, Ministry of Education  
+College of Chemistry  
+Nankai University  
 
 
 I am a Master's student at Nankai University's School of Chemistry, specializing in organic optoelectronics with a focus on device engineering. I am currently preparing for my PhD applications and seeking opportunities starting in Fall 2027.
