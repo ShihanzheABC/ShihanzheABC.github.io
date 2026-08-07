@@ -18,7 +18,7 @@ I am a Master's student at Nankai University's School of Chemistry, specializing
 
 
 
-Research & Engineering Experience
+Education
 ======
 * **M.S. in Chemistry** | Nankai University, Tianjin, China 
   * *Sept 2024 – Present (Expected Jun 2027)*
@@ -26,7 +26,15 @@ Research & Engineering Experience
   * *Oct 2020 – Jun 2024*
   * *School of Textile and Material Engineering*
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Research & Engineering Experience
+======
+### Fabrication and Automation of Organic Optoelectronic Devices
+*Nankai University | Sept 2024 – Present*
+* **Device Fabrication:** Focus exclusively on the physical engineering, fabrication, and optimization of organic photodetectors (OPDs), organic photovoltaics (OPVs), and electrochromic (EC) devices.
+* **Hardware Prototyping:** Construct customized mixed-signal sensor platforms utilizing laser diodes and assemble analog circuits (e.g., TL071 logarithmic transimpedance amplifiers) for effective noise filtering. Engineered an integrated data acquisition system combining an Arduino Uno microcontroller, a CD74HC4067 multiplexer module, and a Keithley 2400 source meter.
+* **System Automation:** Develop custom Python and MATLAB scripts to orchestrate the integrated hardware setup, establishing an automated multi-channel data acquisition and array normalization system.
+* **Scientific Visualization:** Utilize Cinema 4D to model high-resolution 3D device architecture stacks and graphical abstracts for academic publications.
+
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
