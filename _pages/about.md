@@ -42,7 +42,7 @@ Research & Engineering Experience
 * **Scientific Visualization:** Utilize Cinema 4D to model high-resolution 3D device architecture stacks and graphical abstracts for academic publications.
 
 ### 3D-Printed Graphene/Gelatin Composite Hydrogels for Solar Desalination  
-*Undergraduate Researcher | Dalian Polytechnic University | Oct 2020 – Jun 2024*
+*Undergraduate Researcher | Dalian Polytechnic University | Oct 2020 – Jun 2024*<br>
 *Advisor: Prof. Xiaohang Tuo*
 * **Material & Structural Engineering:** Engineered a graphene-doped gelatin hydrogel and optimized its rheological properties for high-precision 3D printing (utilizing a 60 µm nozzle) to create interconnected porous structures for capillary-driven water transport.
 * **Mechanical Enhancement:** Enhanced the mechanical robustness of the hydrogel by 14.79 times via glutaraldehyde-mediated chemical crosslinking and ammonium sulfate salting-out effects, maintaining a reliable tensile strength of 1.02 MPa despite 15% graphene loading.
