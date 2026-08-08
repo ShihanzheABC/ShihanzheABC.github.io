@@ -58,21 +58,19 @@ Technical Skills
 ======
 **Hardware Prototyping & Device Engineering**
 * **Device Fabrication:** Physical engineering, fabrication, and optimization of organic photodetectors (OPDs), organic photovoltaics (OPVs), and electrochromic (EC) devices.
-* **Circuits & IoT Integration:** Design and assembly of custom mixed-signal sensor platforms and IoT monitoring systems using Arduino Uno and ESP8266 microcontrollers[span_1](start_span)[span_1](end_span). Proficient in integrating CD74HC4067 multiplexers, laser diodes, and TL071 analog circuits for effective noise filtering.
-* **Advanced Manufacturing:** Experienced in 3D printing of composite hydrogels and electrospinning of PVB fibers for functional material applications[span_2](start_span)[span_2](end_span).
+* **Circuits & IoT Integration:**  Capable of constructing simple automated experimental setups and basic monitoring tools using Arduino microcontrollers (e.g., Uno, ESP8266). Proficient in integrating CD74HC4067 multiplexers, laser diodes, and TL071 analog circuits for effective noise filtering in optoelectronic testing.
+* **Advanced Manufacturing:** Experienced in 3D printing of composite hydrogels and electrospinning of PVB fibers for functional material applications.
 
 **Programming & System Automation**
-* **Languages:** Python, MATLAB, C++[span_3](start_span)[span_3](end_span).
+* **Languages:** Python, MATLAB, C++.
 * **Instrumentation Control:** Developing automated scripts to orchestrate hardware setups, specifically interfacing with Keithley 2400 source meters for automated multi-channel data acquisition and array normalization.
 
 **Scientific Visualization & Data Analysis**
 * **3D Modeling & Design:** Highly proficient in Cinema 4D (C4D), AutoCAD, Adobe Photoshop (PS), and After Effects (Ae)[span_4](start_span)[span_4](end_span). Skilled in creating high-resolution 3D device architecture renderings, chemical mechanism diagrams, and publication-ready graphical abstracts[span_5](start_span)[span_5](end_span).
-* **Data Processing:** Strong background in mathematical modeling (National & International Award Winner) with extensive use of MATLAB, SPSS, and Origin for complex statistical analysis[span_6](start_span)[span_6](end_span).
+* **Data Processing:** Strong background in mathematical modeling (National & International Award Winner) with extensive use of MATLAB, SPSS, and Origin for complex statistical analysis.
 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
 
 Create content & metadata
 ------
