@@ -17,10 +17,10 @@ author_profile: true
 1. Qin, H., **Shi, H.**, Guo, T., et al. "Gbits/s-Level Encrypted Spectral Wireless Communication Enabled by High-Performance Flexible Organic Hyperspectrometer." *Advanced Materials*, 38(1), e13003 (2026).
  
 2. Geng, C., Song, G., Lin, W., **Shi, H.**, et al. "Flexible photonic contactless human-machine interface based on visible-blind near-infrared organic photodetectors." *National Science Review*, 12(9), nwaf303 (2025).
+3. Yin, Z., Zhu, Y., **Shi, H.**, Guo, T., Han, R., Liu, Y., Chen, Y. "Ultra-sensitive ultraviolet organic photodetectors enabled by an expanded spectral window for health monitoring." *Science China Materials*, (2026). [[DOI]](https://doi.org/10.1007/s40843-026-4183-3)
+4. Wang, Y., Li, M., Wang, R., **Shi, H.**, et al. "Highly Stretchable Transparent Electrodes for Wearable Near-Infrared Organic Photodetectors Enabling Vital Monitoring, Imaging, and Communication." *ACS Applied Materials & Interfaces*, 17(29), 42162–42173 (2025).
 
-3. Wang, Y., Li, M., Wang, R., **Shi, H.**, et al. "Highly Stretchable Transparent Electrodes for Wearable Near-Infrared Organic Photodetectors Enabling Vital Monitoring, Imaging, and Communication." *ACS Applied Materials & Interfaces*, 17(29), 42162–42173 (2025).
+5. Zhang, J.†, Guo, T.†, Han, R., **Shi, H.**, et al. "Enhanced Sensitivity of Near-Infrared Organic Photodetectors via Ternary Compensation for Contact/Contactless Vitality Surveillance." *CCS Chemistry*, (2025).
 
-4. Zhang, J.†, Guo, T.†, Han, R., **Shi, H.**, et al. "Enhanced Sensitivity of Near-Infrared Organic Photodetectors via Ternary Compensation for Contact/Contactless Vitality Surveillance." *CCS Chemistry*, (2025).
-
-5. Xu, J., **Shi, H.**, Liu, J., et al. "Polyimide/CsxWO3 Composite Aerogel Fibers with Dual-Channel Thermal Management Strategy." *Journal of Materials Science*, 59, 8796–8809 (2024).
+6. Xu, J., **Shi, H.**, Liu, J., et al. "Polyimide/CsxWO3 Composite Aerogel Fibers with Dual-Channel Thermal Management Strategy." *Journal of Materials Science*, 59, 8796–8809 (2024).
  
