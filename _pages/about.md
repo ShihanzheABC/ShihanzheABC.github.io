@@ -66,7 +66,7 @@ Technical Skills
 * **Instrumentation Control:** Developing automated scripts to orchestrate hardware setups, specifically interfacing with Keithley 2400 source meters for automated multi-channel data acquisition and array normalization.
 
 **Scientific Visualization & Data Analysis**
-* **3D Modeling & Design:** Highly proficient in Cinema 4D (C4D), AutoCAD, Adobe Photoshop (PS), and After Effects (Ae)[span_4](start_span)[span_4](end_span). Skilled in creating high-resolution 3D device architecture renderings, chemical mechanism diagrams, and publication-ready graphical abstracts[span_5](start_span)[span_5](end_span).
+* **3D Modeling & Design:** Highly proficient in Cinema 4D (C4D), AutoCAD, Adobe Photoshop (PS), and After Effects (Ae). Skilled in creating high-resolution 3D device architecture renderings, chemical mechanism diagrams, and publication-ready graphical abstracts.
 * **Data Processing:** Strong background in mathematical modeling (National & International Award Winner) with extensive use of MATLAB, SPSS, and Origin for complex statistical analysis.
 
 
