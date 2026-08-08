@@ -48,7 +48,11 @@ Research & Engineering Experience
 * **Mechanical Enhancement:** Enhanced the mechanical robustness of the hydrogel by 14.79 times via glutaraldehyde-mediated chemical crosslinking and ammonium sulfate salting-out effects, maintaining a reliable tensile strength of 1.02 MPa despite 15% graphene loading.
 * **Device Prototyping & Testing:** Designed and assembled a complete interfacial solar desalination device prototype; achieved an outstanding water evaporation rate of 3.153 kg m⁻² h⁻¹ under 1 sun illumination during outdoor field testing.
 
-
+### IoT-Integrated Interfacial Solar Desalination Device
+*Undergraduate Researcher | Dalian Polytechnic University | Oct 2020 – Jun 2024*<br>
+*Advisor: Prof. Fei Shi and Researcher. Jing Xu *
+* **Material Synthesis & Structural Engineering:** Fabricated a highly efficient photothermal conversion membrane using polyimide doped with nano cesium tungsten bronze (CsxWO3). Employed a quick-freezing and freeze-drying process to create directionally aligned porous structures, which significantly enhanced capillary water absorption.
+* **IoT System & Hardware Integration:** Engineered an Internet of Things (IoT) monitoring system for the desalination device using an Arduino microcontroller and an ESP8266 module. Integrated water level and temperature/humidity sensors to enable real-time environmental data acquisition and internal status tracking.
 
 Getting started
 ======
