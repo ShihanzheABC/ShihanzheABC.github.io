@@ -32,18 +32,22 @@ Education
 
 Research & Engineering Experience
 ======
-### Fabrication and Automation of Organic Optoelectronic Devices
-*Nankai University | Sept 2024 – Present*
+### Fabrication and Automation of Organic Optoelectronic Devices  
+*Master's Researcher, Prof. Yongsheng Chen's Group | Nankai University | Sept 2024 – Present*
+*Directly supervised by Prof. Guanghui Li and Dr. Yu Zhu*
 * **Device Fabrication:** Focus exclusively on the physical engineering, fabrication, and optimization of organic photodetectors (OPDs), organic photovoltaics (OPVs), and electrochromic (EC) devices.
 * **Hardware Prototyping:** Construct customized mixed-signal sensor platforms utilizing laser diodes and assemble analog circuits (e.g., TL071 logarithmic transimpedance amplifiers) for effective noise filtering. Engineered an integrated data acquisition system combining an Arduino Uno microcontroller, a CD74HC4067 multiplexer module, and a Keithley 2400 source meter.
 * **System Automation:** Develop custom Python and MATLAB scripts to orchestrate the integrated hardware setup, establishing an automated multi-channel data acquisition and array normalization system.
 * **Scientific Visualization:** Utilize Cinema 4D to model high-resolution 3D device architecture stacks and graphical abstracts for academic publications.
 
+### 3D-Printed Graphene/Gelatin Composite Hydrogels for Solar Desalination  
+*Undergraduate Researcher | Dalian Polytechnic University | Oct 2020 – Jun 2024*
+*Advisor: Prof. Xiaohang Tuo*
+* **Material & Structural Engineering:** Engineered a graphene-doped gelatin hydrogel and optimized its rheological properties for high-precision 3D printing (utilizing a 60 µm nozzle) to create interconnected porous structures for capillary-driven water transport.
+* **Mechanical Enhancement:** Enhanced the mechanical robustness of the hydrogel by 14.79 times via glutaraldehyde-mediated chemical crosslinking and ammonium sulfate salting-out effects, maintaining a reliable tensile strength of 1.02 MPa despite 15% graphene loading.
+* **Device Prototyping & Testing:** Designed and assembled a complete interfacial solar desalination device prototype; achieved an outstanding water evaporation rate of 3.153 kg m⁻² h⁻¹ under 1 sun illumination during outdoor field testing.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+
 
 Getting started
 ======
