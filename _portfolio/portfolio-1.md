@@ -1,6 +1,6 @@
 ---
 title: "Hardware Prototyping and System Automation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/fig1.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/fig5.jpg'>"
 collection: portfolio
 ---
 
