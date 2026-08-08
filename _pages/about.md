@@ -54,14 +54,21 @@ Research & Engineering Experience
 * **Material Synthesis & Structural Engineering:** Fabricated a highly efficient photothermal conversion membrane using polyimide doped with nano cesium tungsten bronze (CsxWO3). Employed a quick-freezing and freeze-drying process to create directionally aligned porous structures, which significantly enhanced capillary water absorption.
 * **IoT System & Hardware Integration:** Engineered an Internet of Things (IoT) monitoring system for the desalination device using an Arduino microcontroller and an ESP8266 module. Integrated water level and temperature/humidity sensors to enable real-time environmental data acquisition and internal status tracking.
 
-Getting started
+Technical Skills
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Hardware Prototyping & Device Engineering**
+* **Device Fabrication:** Physical engineering, fabrication, and optimization of organic photodetectors (OPDs), organic photovoltaics (OPVs), and electrochromic (EC) devices.
+* **Circuits & IoT Integration:** Design and assembly of custom mixed-signal sensor platforms and IoT monitoring systems using Arduino Uno and ESP8266 microcontrollers[span_1](start_span)[span_1](end_span). Proficient in integrating CD74HC4067 multiplexers, laser diodes, and TL071 analog circuits for effective noise filtering.
+* **Advanced Manufacturing:** Experienced in 3D printing of composite hydrogels and electrospinning of PVB fibers for functional material applications[span_2](start_span)[span_2](end_span).
+
+**Programming & System Automation**
+* **Languages:** Python, MATLAB, C++[span_3](start_span)[span_3](end_span).
+* **Instrumentation Control:** Developing automated scripts to orchestrate hardware setups, specifically interfacing with Keithley 2400 source meters for automated multi-channel data acquisition and array normalization.
+
+**Scientific Visualization & Data Analysis**
+* **3D Modeling & Design:** Highly proficient in Cinema 4D (C4D), AutoCAD, Adobe Photoshop (PS), and After Effects (Ae)[span_4](start_span)[span_4](end_span). Skilled in creating high-resolution 3D device architecture renderings, chemical mechanism diagrams, and publication-ready graphical abstracts[span_5](start_span)[span_5](end_span).
+* **Data Processing:** Strong background in mathematical modeling (National & International Award Winner) with extensive use of MATLAB, SPSS, and Origin for complex statistical analysis[span_6](start_span)[span_6](end_span).
+
 
 Site-wide configuration
 ------
