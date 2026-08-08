@@ -14,7 +14,7 @@ author_profile: true
 
 ## Co-Authored Publications
 
-1. Qin, H., **Shi, H.**, Guo, T., et al. "Gbits/s-Level Encrypted Spectral Wireless Communication Enabled by High-Performance Flexible Organic Hyperspectrometer." *Advanced Materials*, 38(1), e13003 (2026).
+1. Qin, H., **Shi, H.**, Guo, T., et al. "Gbits/s-Level Encrypted Spectral Wireless Communication Enabled by High-Performance Flexible Organic Hyperspectrometer." *Advanced Materials*, 38(1), e13003 (2026). [[DOI]](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202513003)
  
 2. Geng, C., Song, G., Lin, W., **Shi, H.**, et al. "Flexible photonic contactless human-machine interface based on visible-blind near-infrared organic photodetectors." *National Science Review*, 12(9), nwaf303 (2025).
 3. Yin, Z., Zhu, Y., **Shi, H.**, Guo, T., Han, R., Liu, Y., Chen, Y. "Ultra-sensitive ultraviolet organic photodetectors enabled by an expanded spectral window for health monitoring." *Science China Materials*, (2026). [[DOI]](https://doi.org/10.1007/s40843-026-4183-3)
