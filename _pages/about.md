@@ -32,6 +32,7 @@ Education
 
 Research & Engineering Experience
 ======
+
 ### Fabrication and Automation of Organic Optoelectronic Devices  
 *Master's Researcher, Prof. Yongsheng Chen's Group | Nankai University | Sept 2024 – Present*
 *Directly supervised by Prof. Guanghui Li and Dr. Yu Zhu*
