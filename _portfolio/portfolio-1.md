@@ -4,4 +4,6 @@ excerpt: "Real-time imaging of 4×4/8×8 arrays based on Arduino UNO and CD74HC4
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Project Overview
+In this project, I engineered an automated multi-channel data acquisition system designed for the real-time imaging of organic photodetector (OPD) arrays. The system bridges custom-built analog circuits with digital processing to enable high-throughput optoelectronic characterization.
+
