@@ -1,6 +1,8 @@
 ---
-title: "Portfolio item number 1"
+title: "Hardware Prototyping and System Automation"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+excerpt: "Short description of portfolio item number 2<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
