@@ -12,7 +12,8 @@ Researchers, students, and makers are highly encouraged to use, modify, and inte
 * **Arduino Uno:**
 *
  {% raw %}
-```Arduino Uno   
+```Arduino Uno
+#code of Arduino Uno
 const int selectPins[4] = {2, 3, 4, 5};  
 void setup() {  
   Serial.begin(115200);  
