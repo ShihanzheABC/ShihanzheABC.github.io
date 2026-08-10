@@ -1,5 +1,5 @@
 ---
-title: "Hardware Prototyping and System Automation"
+title: "Hardware Prototyping and System Automation（Undergraduate Research Projects）"
 excerpt: "IoT-Integrated Interfacial Solar Desalination Device<br/><img src='/images/fig1.jpg'>"
 collection: portfolio
 ---
