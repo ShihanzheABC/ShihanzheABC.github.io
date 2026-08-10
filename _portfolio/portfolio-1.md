@@ -32,15 +32,16 @@ void loop() {
 }  
   
 * **python:**
+
 //python code
-import serial
-import pyvisa
-import time
-import numpy as np
-import csv
-import matplotlib
-matplotlib.use('TkAgg')  
-import matplotlib.pyplot as plt
+import serial  
+import pyvisa  
+import time  
+import numpy as np  
+import csv  
+import matplotlib  
+matplotlib.use('TkAgg')    
+import matplotlib.pyplot as plt  
 
 # --- 1. 端口与文件名配置 ---
 ARDUINO_PORT = 'COM10'
