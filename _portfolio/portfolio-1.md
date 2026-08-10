@@ -10,7 +10,7 @@ In this project, I engineered an automated multi-channel data acquisition system
 ## 4*4 real-time image system
 * **Arduino Uno:**
 * 
-    //Arduino Uno   
+```Arduino Uno   
 const int selectPins[4] = {2, 3, 4, 5};  
 void setup() {  
   Serial.begin(115200);  
@@ -30,9 +30,9 @@ void loop() {
     }  
   }  
 }  
-  
+``` 
 * **python:**
-
+{% raw %}
 #python code
 import serial  
 import pyvisa  
@@ -139,3 +139,4 @@ finally:
     keithley.close()
     ser.close()
     print(f"所有数据已安全存入 {DATA_FILE}")
+{% endraw %}
