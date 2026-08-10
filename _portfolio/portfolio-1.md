@@ -1,6 +1,6 @@
 ---
 title: "Hardware Prototyping and System Automation"
-excerpt: "Real-time imaging of 4×4/8×8 arrays based on Arduino UNO and CD74HC4067<br/><img src='/images/fig5.jpg'>"
+excerpt: "Automated 2D Scanning and Real-Time Imaging Platform for Scalable Arrays<br/><img src='/images/fig5.jpg'>"
 collection: portfolio
 ---
 
