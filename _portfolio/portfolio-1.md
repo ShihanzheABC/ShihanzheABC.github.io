@@ -8,9 +8,10 @@ collection: portfolio
 In this project, I engineered an automated multi-channel data acquisition system designed for the real-time imaging of organic photodetector (OPD) arrays. The system bridges custom-built analog circuits with digital processing to enable high-throughput optoelectronic characterization.
 I strongly believe in open science and reproducible research. The source code below for the 4×4 real-time imaging and data acquisition system is fully open-source. 
 Researchers, students, and makers are highly encouraged to use, modify, and integrate this code into their own hardware automation or optoelectronic projects.  
-## 4*4 real-time image system
-* **Arduino Uno:**
-*
+## 4*4 real-time image system  
+
+* **Arduino Uno:**  
+*  
  {% raw %}
 ```Arduino Uno
 #code of Arduino Uno
