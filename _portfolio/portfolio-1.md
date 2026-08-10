@@ -24,7 +24,6 @@ void setup() {
 }
 
 void loop() {  
-
   if (Serial.available() > 0) {  
     int targetChannel = Serial.read();   
     
