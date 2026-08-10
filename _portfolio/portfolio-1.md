@@ -10,7 +10,8 @@ I strongly believe in open science and reproducible research. The source code be
 Researchers, students, and makers are highly encouraged to use, modify, and integrate this code into their own hardware automation or optoelectronic projects.  
 ## 4*4 real-time image system
 * **Arduino Uno:**
-* 
+*
+ {% raw %}
 ```Arduino Uno   
 const int selectPins[4] = {2, 3, 4, 5};  
 void setup() {  
@@ -31,8 +32,12 @@ void loop() {
     }  
   }  
 }  
-``` 
+```  
+{% endraw %}
+
 * **python:**
+* 
+{% raw %}
 ```python
 #python code
 import serial  
@@ -141,3 +146,4 @@ finally:
     ser.close()
     print(f"所有数据已安全存入 {DATA_FILE}")
 ```
+{% endraw %}
