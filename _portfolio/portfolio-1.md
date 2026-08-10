@@ -9,6 +9,7 @@ In this project, I engineered an automated multi-channel data acquisition system
 
 ## 4*4 real-time image system
 * **Arduino Uno:**
+* 
     // Arduino Uno   
 const int selectPins[4] = {2, 3, 4, 5};  
 
@@ -25,9 +26,6 @@ void setup() {
 void loop() {  
 
   if (Serial.available() > 0) {  
-  
-    // 接收 PC 发来的目标通道字节 (0-15)  
-    
     int targetChannel = Serial.read();   
     
     if (targetChannel >= 0 && targetChannel <= 15)  
