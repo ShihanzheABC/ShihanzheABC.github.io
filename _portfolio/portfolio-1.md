@@ -1,6 +1,6 @@
 ---
 title: "Hardware Prototyping and System Automation"
-excerpt: "Automated 2D Scanning and Real-Time Imaging Platform for Scalable Arrays<br/><img src='/images/fig5.jpg'>"
+excerpt: "Automated 2D Scanning and Real-Time Imaging Platform for Scalable Arrays<br/><img src='/images/fig7.jpg'>"
 collection: portfolio
 ---
 
