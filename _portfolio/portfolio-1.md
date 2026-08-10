@@ -10,13 +10,13 @@ I strongly believe in open science and reproducible research. The source code be
 Researchers, students, and makers are highly encouraged to use, modify, and integrate this code into their own hardware automation or optoelectronic projects.  
 ## 4*4 real-time image system  
 
-* **Arduino Uno:**  
-*  
+* **Arduino uno（C++）:**
+* 
  {% raw %}
 ```Arduino Uno   
-#code of Arduino Uno
-const int selectPins[4] = {2, 3, 4, 5};  
-void setup() {  
+ #code of Arduino Uno  
+ const int selectPins[4] = {2, 3, 4, 5};  
+ void setup() {  
   Serial.begin(115200);  
   for (int i = 0; i < 4; i++)   
   pinMode(selectPins[i], OUTPUT);  
