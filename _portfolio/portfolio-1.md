@@ -32,7 +32,7 @@ void loop() {
 }  
 ``` 
 * **python:**
-{% raw %}
+```python
 #python code
 import serial  
 import pyvisa  
@@ -139,4 +139,4 @@ finally:
     keithley.close()
     ser.close()
     print(f"所有数据已安全存入 {DATA_FILE}")
-{% endraw %}
+```
