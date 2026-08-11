@@ -23,37 +23,30 @@ Polymer Chemistry， Polymer Physics， Polymer Processing and Engineering， Or
 
 Skills
 ======
-* Laboratory & Fabrication
+* Laboratory & Fabrication<br>
 Device Engineering & Characterization: Proficient in VTE, Spin-coating, and “advanced materials processing (including DIW 3D printing of functional hydrogels). Expert in AFM, UV-Vis-NIR, EQE, and semiconductor parameter analysis.    
  
-* Automation & Computation
+* Automation & Computation<br>
 Advanced proficiency in Python & C++ for instrument control (e.g., Keithley 2400) and automated data acquisition. Experienced in Arduino for designing bespoke sensor platforms and hardware-level system integration.    
 
-* Scientific Visualization & Design    
+* Scientific Visualization & Design<br>   
 Scientific Visualization: Professional proficiency in Cinema 4D (C4D) for high-fidelity 3D device modeling and mechanism rendering (journal cover standard). Skilled in Adobe Creative Suite (PS, AE), AutoCAD, and Origin for data visualization and dynamic animations.    
 
-* Languages & Certificates
+* Languages & Certificates<br>
   Chinese(native),  English: IELTS 6.0 (L:6.5, R:7, W:5.5, S:5.5), CET6:508
 
 
-Publications
+HONORS
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Honors Degree, Dalian Polytechnic University， 2024<br>
+* National Scholarship, Ministry of Education, China， 2023<br>
+* First-Class Comprehensive Scholarship (Top 2% of the department, Awarded 6 times)， Dalian Polytechnic University<br>
+* Chen xinfu Scholarship, Nankai University, 2024<br>
+* second-Class Comprehensive Scholarship(Top 30% of the department),  Nankai University, 2025<br>
+* Liaoning Provincial Outstanding Graduate, 2024<br>
+* 8th National Undergraduate Physics Experiment Competition, 2022<br>
+* Third Prize, 15th National Undergraduate Computer Design Contest, 2022<br>
+* Honorable Mention, Interdisciplinary Contest in Modeling (MCM/ICM),  2023<br>
+
+
+
