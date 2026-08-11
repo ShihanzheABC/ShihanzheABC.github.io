@@ -12,11 +12,12 @@ redirect_from:
 Education
 ======
 * M.S. Sep. 2024 -Present， Nankai University， Tianjin， PRC
-   GPA: 3.12（78.05/100） Master of Science in Chemistry
-  Relevant Courses：
-Computer Applications in Chemistry，Characterization Methods in Polymer Science，Advanced Organic Chemistry，Modern Polymer Chemistry  
+  Master of Science in Chemistry    
+  Relevant Courses：    
+Computer Applications in Chemistry，Characterization Methods in Polymer Science，Advanced Organic Chemistry，Modern Polymer Chemistry
+<br>
 * B.S. Sep. 2020 - Jun. 2024， Dalian Polytechnic University， Dalian， PRC    
-	GPA: 3.49（86.47/100） Bachelor of Polymer Materials and Engineering
+  Bachelor of Polymer Materials and Engineering    
   Relevant Courses：  
 Polymer Chemistry， Polymer Physics， Polymer Processing and Engineering， Organic Chemistry Physical Chemistry， Inorganic Chemistry
 
