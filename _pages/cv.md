@@ -13,7 +13,11 @@ Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. Sep. 2020 - Jun. 2024， Dalian Polytechnic University， Dalian， PRC    
+	GPA: 3.49（86.47/100） Bachelor of Polymer Materials and Engineering
+  Relevant Courses：  
+Polymer Chemistry， Polymer Physics， Polymer Processing and Engineering， Organic Chemistry Physical Chemistry， Inorganic Chemistry
+
 
 Work experience
 ======
