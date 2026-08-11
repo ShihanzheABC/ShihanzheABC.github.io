@@ -12,4 +12,4 @@ Freshwater scarcity has long been one of the most critical global challenges of 
 Photothermal materials, characterized by unique structural features, offer exceptional photothermal conversion efficiency. This project employs biomimetic technology to fabricate a photothermal conversion membrane from polyimide composites, creating an interfacial desalination system.
 
 The "14th Five-Year Plan" for the textile industry emphasizes the vigorous promotion of digital transformation within enterprises. In response, this project designs an IoT system. The module integrates an Arduino microcontroller with ESP8266, temperature and humidity sensors, and a water level sensor to enable real-time weather data acquisition and monitoring of water levels and internal temperature and humidity.
-<br/><img src='/images/fig2.jpg'>
+<br/><img src='/images/fig11.jpg'>
