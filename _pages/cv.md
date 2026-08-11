@@ -14,8 +14,7 @@ Education
 * M.S. Sep. 2024 -Present， Nankai University， Tianjin， PRC    
   Master of Science in Chemistry    
   Relevant Courses：    
-Computer Applications in Chemistry，Characterization Methods in Polymer Science，Advanced Organic Chemistry，Modern Polymer Chemistry
-<br>  
+Computer Applications in Chemistry，Characterization Methods in Polymer Science，Advanced Organic Chemistry，Modern Polymer Chemistry    
 * B.S. Sep. 2020 - Jun. 2024， Dalian Polytechnic University， Dalian， PRC    
   Bachelor of Polymer Materials and Engineering    
   Relevant Courses：  
