@@ -21,31 +21,20 @@ Computer Applications in Chemistry，Characterization Methods in Polymer Science
 Polymer Chemistry， Polymer Physics， Polymer Processing and Engineering， Organic Chemistry Physical Chemistry， Inorganic Chemistry
 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Laboratory & Fabrication
+Device Engineering & Characterization: Proficient in VTE, Spin-coating, and “advanced materials processing (including DIW 3D printing of functional hydrogels). Expert in AFM, UV-Vis-NIR, EQE, and semiconductor parameter analysis.    
+ 
+* Automation & Computation
+Advanced proficiency in Python & C++ for instrument control (e.g., Keithley 2400) and automated data acquisition. Experienced in Arduino for designing bespoke sensor platforms and hardware-level system integration.    
+
+* Scientific Visualization & Design    
+Scientific Visualization: Professional proficiency in Cinema 4D (C4D) for high-fidelity 3D device modeling and mechanism rendering (journal cover standard). Skilled in Adobe Creative Suite (PS, AE), AutoCAD, and Origin for data visualization and dynamic animations.    
+
+* Languages & Certificates
+  Chinese(native),  English: IELTS 6.0 (L:6.5, R:7, W:5.5, S:5.5), CET6:508
+
 
 Publications
 ======
