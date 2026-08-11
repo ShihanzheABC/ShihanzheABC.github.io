@@ -15,7 +15,8 @@ Education
   Master of Science in Chemistry    
   Relevant Courses：    
 Computer Applications in Chemistry，Characterization Methods in Polymer Science，Advanced Organic Chemistry，Modern Polymer Chemistry
-<br>
+<br>  
+
 * B.S. Sep. 2020 - Jun. 2024， Dalian Polytechnic University， Dalian， PRC    
   Bachelor of Polymer Materials and Engineering    
   Relevant Courses：  
