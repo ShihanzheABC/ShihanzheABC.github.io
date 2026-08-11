@@ -76,3 +76,7 @@ Note on Research Confidentiality:
 ------
 Due to laboratory non-disclosure agreements (NDA) regarding unpublished research, specific chemical structures, material formulations, and core optoelectronic performance metrics of my current master's project cannot be publicly disclosed. Therefore, this website primarily highlights the methodological tools—such as custom hardware automation, software development, and scientific visualization—that I have engineered to support and accelerate my core material science research.
 
+About This Website
+------
+This academic portfolio was independently built and deployed by myself, utilizing the open-source project hosted on GitHub Pages. AI tools were reasonably utilized as coding and linguistic assistants to refine the presentation of my research.
+
