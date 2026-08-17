@@ -32,6 +32,13 @@ Education
 
 Research & Engineering Experience
 ======
+### Device Engineering of High-Performance Near-Infrared Organic Photodetectors (NIR OPDs)  
+*Master's Researcher, Prof. Yongsheng Chen's Group | Nankai University | Sept 2024 – Present*
+*Directly supervised by Prof. Guanghui Li and Dr. Yu Zhu*
+*Collaborative Project: Molecule synthesis by Jing Zhang*
+* **Project excerpt:** Systematic optimization of ultra-fast, solution-processed NIR-II organic photodetectors based on Y6 derivatives, achieving microsecond-level response and ultralow dark current.
+* **Device Fabrication:** This study fabricated an inverted OPD devices (Glass/ITO/PEDOT:PSS/Active layer/PDINN/Ag) and comprehensively optimized the active layer morphology through solvent engineering, spin-coating parameter tuning, and thermal annealing to maximize exciton dissociation and charge collection. Based on this optimized architecture, we systematically evaluated the optoelectronic impact of heteroatom substitution (S vs. Se) in collaboratively synthesized non-fullerene acceptors. 
+* **Performance Characterization:** Conducted comprehensive optoelectronic evaluations using semiconductor parameter analyzers and oscilloscopes to precisely measure I-V/I-t characteristics, response times, external quantum efficiency (EQE), -3dB bandwidth, and linear dynamic range (LDR). Furthermore, investigated thin-film morphology and microstructures utilizing Atomic Force Microscopy (AFM) and Grazing-Incidence Wide-Angle X-ray Scattering (GIWAXS).
 
 ### Fabrication and Automation of Organic Optoelectronic Devices  
 *Master's Researcher, Prof. Yongsheng Chen's Group | Nankai University | Sept 2024 – Present*
