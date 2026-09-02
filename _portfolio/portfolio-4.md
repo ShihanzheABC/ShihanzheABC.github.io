@@ -1,4 +1,3 @@
-
 ---
 title: "Multi-mode adaptive detector（Nearing completion）"
 excerpt: "Current Work: Adaptive Detector Functionality Demonstration<br/><img src='/images/SELF-ADAPTATION2.png'>"
