@@ -8,7 +8,9 @@ author_profile: true
 
 ## First-Authored Publications
 
-1. **Shi, H.**, et al. "High-Density Photodetector Arrays for Bio-inspired Imaging." *(In Preparation)*.
+1. **Shi, H.**, et al. "Anti-glare spectrally adaptive Photodetector." *(In Preparation)*.
+2. **Shi, H.**, et al. "Angle-sensitive near infrared organic photodetectors." *(In Preparation)*.
+
 
 ---
 
